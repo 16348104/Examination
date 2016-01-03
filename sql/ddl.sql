@@ -25,4 +25,4 @@ USE exam;
 
 TRUNCATE  TABLE word;
 
-USE exam;
+
