@@ -9,8 +9,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = false)
-public class User extends BaseModel {
+public class Wrod extends BaseModel {
+
     private Integer id;
-    private String username;
-    private String password;
+    private String english;
+    private String chinese;
+    private String sentence;
 }

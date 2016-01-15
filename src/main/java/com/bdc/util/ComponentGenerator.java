@@ -19,7 +19,7 @@ class ComponentGenerator {
 
     // Configuration
     private final static String PACKAGE = "com.bdc";
-    private final static String DATABASE = "bdc";
+    private final static String DATABASE = "exam";
 
     private final static String CODE_PATH = "src/main/java/";
     private static final String PAGE_PATH = "src/main/webapp/";
