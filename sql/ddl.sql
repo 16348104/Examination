@@ -12,4 +12,10 @@ CREATE TABLE exam.user
 
 INSERT INTO exam.user VALUES (NULL, 'a', 'a');
 
-USE exam;
+drop TABLE if EXISTS exam.message;
+CREATE TABLE exam.message (
+
+);
+
+USE exam)
+
