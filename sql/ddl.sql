@@ -14,7 +14,7 @@ INSERT INTO exam.user VALUES (NULL, 'a', 'a');
 
 drop TABLE if EXISTS exam.message;
 CREATE TABLE exam.message (
-
+ id INT unsigned
 );
 
 USE exam)
